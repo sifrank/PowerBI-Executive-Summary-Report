@@ -26,6 +26,12 @@ This project demonstrates end-to-end Business Intelligence development, includin
 
 ---
 
+## Understanding the Dashboard Filters
+
+The dashboard is interactive, and the screenshots illustrate different reporting-period views and filter contexts. In particular, the Current Quarter screenshot includes a specific regional selection, while the Current Month screenshot reflects a different filter context. As a result, KPI totals across these screenshots should not be compared directly without first applying the same regional and other report filters.
+
+Within the report, users can change the reporting period and explore regional and account-segment performance. The displayed KPIs, trends, and breakdowns respond to the active selections, allowing users to analyze both overall performance and more focused subsets of the business.
+
 ## Key Dashboard Features
 
 - Executive KPI cards for monitoring business performance.
